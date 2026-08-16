@@ -1,16 +1,20 @@
-## Hi there 👋
+# مرحباً، أنا مصعب العامر 👋
+### مهندس شبكات | مهتم بالأمن السيبراني وتقنية المعلومات
 
-<!--
-**musab-alamer/MUSAB-ALAMER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+أجمع بين الأساس العملي القوي في هندسة الشبكات والشغف المستمر بتأمين الأنظمة والبنية التحتية. أسعى دائماً لتصميم بيئات شبكية آمنة وعالية الكفاءة، وأركز حالياً على التوسع في مسار الأمن السيبراني.
 
-Here are some ideas to get you started:
+## 🛠️ المهارات والتقنيات التقنية
+- **تصميم الشبكات:** Routing & Switching, Network Architecture.
+- **بروتوكولات التوجيه والتبديل:** OSPF, VLANs, STP, VTP, EtherChannel.
+- **أمن الشبكات:** Access Control Lists (ACLs), VPN, Port Security, NAT/PAT.
+- **الأدوات:** Cisco Packet Tracer, Network Troubleshooting.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 المسار الأكاديمي
+- **بكالوريوس تقنية المعلومات** - الجامعة السعودية الإلكترونية (SEU).
+- **دبلوم شبكات الحاسب الآلي** - جامعة الملك فيصل (KFU).
+
+## 🚀 أهدافي الحالية
+أعمل على تعميق معرفتي في أمن المعلومات واختبار الاختراق، وتطبيق المفاهيم المتقدمة في حماية البنية التحتية للشبكات للتحول الكامل نحو تخصص الأمن السيبراني.
+
+---
+⭐️ **لا تتردد في استكشاف مشاريعي أدناه، خاصة مشروع تصميم الشبكة المتكامل (Enterprise Network Design).**
